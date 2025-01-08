@@ -1,5 +1,7 @@
 # opentelemetry-lambda
 
+[![CI](https://github.com/aloong-planet/opentelemetry-lambda/actions/workflows/ci.yml/badge.svg)](https://github.com/aloong-planet/opentelemetry-lambda/actions/workflows/ci.yml)
+
 A Go library that provides OpenTelemetry instrumentation for AWS Lambda functions. This library simplifies the process of adding distributed tracing to your AWS Lambda functions using OpenTelemetry.
 
 ## Tracing Solution
